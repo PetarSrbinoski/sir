@@ -315,3 +315,9 @@ body {
     border-radius: 50%;
 
 }
+li:hover{
+    cursor: pointer;
+}
+img:hover{
+    cursor: pointer;
+}
